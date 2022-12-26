@@ -1,6 +1,7 @@
-# ballard.one
+# website-ballard.one
 
-_This is the repo for the website at:_ [ballard.one](https://ballard.one)
+__minimal webpage:__
+[ballard.one](https://ballard.one)
 
 ## Details
 * single-page static site
